@@ -3,6 +3,8 @@ spark-iss-monitor
 
 The project notifies over an 8x8 LED Matrix display whenever the International Space Station is passing over you.
 
+![](https://github.com/mohitbhoite/spark-iss-monitor/blob/master/front-view.jpg)
+
 You can watch it in action [here.](http://youtu.be/oPaFNXm0eTI?list=UURBc18ggB23ryfJhkhiPGIw)
 
 #### Wiring diagram
